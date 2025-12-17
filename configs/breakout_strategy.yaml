@@ -1,0 +1,14 @@
+# Breakout Strategy Configuration
+
+# Breakout Parameters
+lookback_period: 20
+volume_multiplier: 1.5
+breakout_threshold: 0.5  # Percentage threshold
+
+# Risk Management
+stop_loss_pct: 2.5
+take_profit_pct: 6.0
+
+# Trading Parameters
+min_confidence: 70
+require_volume_confirmation: true

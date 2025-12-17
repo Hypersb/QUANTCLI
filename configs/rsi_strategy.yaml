@@ -1,0 +1,14 @@
+# RSI Strategy Configuration
+
+# RSI Parameters
+rsi_period: 14
+oversold: 30
+overbought: 70
+
+# Risk Management
+stop_loss_pct: 2.0
+take_profit_pct: 5.0
+
+# Trading Parameters
+min_confidence: 60  # Minimum confidence to trade
+cooldown_bars: 5    # Bars to wait between trades

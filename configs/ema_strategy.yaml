@@ -1,0 +1,13 @@
+# EMA Strategy Configuration
+
+# EMA Parameters
+fast_period: 12
+slow_period: 26
+
+# Risk Management
+stop_loss_pct: 3.0
+take_profit_pct: 8.0
+
+# Trading Parameters
+min_confidence: 65
+trend_strength_threshold: 1.0  # Minimum % separation between EMAs
