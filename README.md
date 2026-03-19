@@ -98,4 +98,4 @@ This is a **research and learning tool**. Paper trading by default. Use at your 
 
 ## 📄 License
 
-MIT - Use freely, learn openly
+MIT - Use freely, learn openly By Subhanjan Bikram K C
